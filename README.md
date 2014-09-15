@@ -1,0 +1,4 @@
+LocoCoin
+========
+
+Based on cryptonote
